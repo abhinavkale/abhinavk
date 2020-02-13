@@ -1,0 +1,31 @@
+.site-header{
+    background-color:#a36464;
+    color:white;
+    height:100vh;
+    font-family: monospace;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.pic{
+    height:200px;
+    width:200px;
+    border-radius:50%;
+    align-self:center;
+    box-shadow: #c1a5a5 2px 5px 5px;
+   
+}
+.pic:hover{
+    border:2px solid black;
+    box-shadow: #180b0b 2px 5px 5px;
+}
+body{
+    margin: 0;
+}
+
+.div{
+    margin:10px;
+}
